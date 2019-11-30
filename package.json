@@ -1,7 +1,7 @@
 {
   "name": "fake-mocker",
   "version": "1.0.0",
-  "description": "Generate fake mock data based on user interface file for unfamiliar communicator.",
+  "description": "Fake mock data provider for unfamiliar communicator",
   "main": "index.js",
   "dependencies": {
   },
